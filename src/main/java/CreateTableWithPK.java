@@ -50,6 +50,10 @@ public class CreateTableWithPK {
      *      |2      |'Hotel California' |'Eagles'               |
      *      |3      |'Kashmir'          |'Led Zeppelin'         |
      */
+   
+     public static void main(String [] args){
+
+     }
     public void problem1(){
 
         /**
